@@ -17,8 +17,8 @@
 
 ### 👨‍💻_technologist: About Me :
 
-- 🔭 I’m currently a third year student 👨‍🎓
-- 🌱 I’m currently learning javascript 
+- 🔭 I’m currently a third year collge student 👨‍🎓
+- 🙂 currently learning javascript 
 - :seedling: Exploring the web and its mysterious world.
 - 💬 Ask me about how 💻 computers work 👷
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marwan-bazighifan-00977a227/)
