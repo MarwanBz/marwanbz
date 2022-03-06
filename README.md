@@ -50,12 +50,12 @@
 
 --- 
 
-### 🔥 most used langueges
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?https://github.com/MarwanBz&layout=compact&theme=vision-friendly-dark)]
+<!-- ### 🔥 most used langueges
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?https://github.com/MarwanBz&layout=compact&theme=vision-friendly-dark)
 
 
 
-
+ -->
 
 
 
