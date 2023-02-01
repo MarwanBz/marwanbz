@@ -2,32 +2,40 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <h1> Hi there I am Marwan 👋</h1>
-  <div id="badges">
-  <a href="https://www.linkedin.com/in/marwan-bazighifan-00977a227/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
+  
+  ## 🚀About Me
+  
+### I'm a frontend developer trying all the things javascript! ;)
+
+
+### 🔗Links  
+    
+    
+     
+    
+  [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://marwanbaz.netlify.app//)
+  [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marwanbz/)
+  [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/marwanbz_)
+    
+  
 </div>
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-
+  
+  
+  ### 👨‍💻_technologist:
 ---
-
-### 👨‍💻_technologist: About Me :
-
 - 🔭 I’m currently a third year collge student 👨‍🎓
 - 🙂 currently learning javascript 
 - :seedling: Exploring the web and its mysterious world.
 - 💬 Ask me about how 💻 computers work 👷
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marwan-bazighifan-00977a227/)
-
-
-
-
-
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marwanbz/)
 ---
+
+
+</div>
+
 
 ### :hammer_and_wrench: Languages and Tools :
 
@@ -47,11 +55,11 @@
 </div>
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?https://github.com/marwanmz&layout=compact&theme=vision-friendly-dark)
 
 --- 
 
 <!-- ### 🔥 most used langueges
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?https://github.com/MarwanBz&layout=compact&theme=vision-friendly-dark)
 
 
 
@@ -82,4 +90,48 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+# Hi, I'm Katherine! 👋
+
+
+## 🚀 About Me
+I'm a full stack developer...
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+
+
+## 🛠 Skills
+Javascript, HTML, CSS...
+
+
+## Other Common Github Profile Sections
+👩‍💻 I'm currently working on...
+
+🧠 I'm currently learning...
+
+👯‍♀️ I'm looking to collaborate on...
+
+🤔 I'm looking for help with...
+
+💬 Ask me about...
+
+📫 How to reach me...
+
+😄 Pronouns...
+
+⚡️ Fun fact...
+
+
+## Tech Stack
+
+**Client:** React, Redux, TailwindCSS
+
+**Server:** Node, Express
+
+
 -->
