@@ -55,9 +55,27 @@
 </div>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?https://github.com/marwanbz&layout=compact&theme=vision-friendly-dark)
+---
+<div align="center">
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marwanbz&layout=compact&theme=vision-friendly-dark)
 
---- 
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=marwanbz&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=marwanbz&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=marwanbz&show_icons=true" />
+</picture>
+
+
+</div>
+
+
 
 <!-- ### 🔥 most used langueges
 
