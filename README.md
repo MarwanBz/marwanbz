@@ -26,8 +26,8 @@
   
   ### 👨‍💻_technologist:
 ---
-- 🔭 I’m currently a third year collge student 👨‍🎓
-- 🙂 currently learning javascript 
+- 🔭 I’m currently a last year collage student 👨‍🎓
+- 🙂 currently learning Reactjs 
 - :seedling: Exploring the web and its mysterious world.
 - 💬 Ask me about how 💻 computers work 👷
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marwanbz/)
