@@ -26,9 +26,10 @@
   
   ### 👨‍💻_technologist:
 ---
-- 🔭 I’m currently a last year collage student 👨‍🎓
-- 🙂 currently learning Reactjs 
+- 🔭 I’m currently working in IT support.👨‍💻
+- 🙂 currently learning Reactjs|NextJs ecossystem.🔎
 - :seedling: Exploring the web and its mysterious world.
+- - 👯 I’m looking to collaborate on open-source projects.
 - 💬 Ask me about how 💻 computers work 👷
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marwanbz/)
 ---
@@ -109,12 +110,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-
-# Hi, I'm Katherine! 👋
-
-
-## 🚀 About Me
-I'm a full stack developer...
 
 
 ## 🔗 Links
