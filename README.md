@@ -26,7 +26,7 @@
   
   ### 👨‍💻_technologist:
 ---
-- 🔭 I’m currently working in IT support.👨‍💻
+- 🔭 I’m currently working in IT support, freelancing as a web developer and doing some open-source contributions.👨‍💻
 - 🙂 currently learning Reactjs|NextJs ecossystem.🔎
 - :seedling: Exploring the web and its mysterious world.
 - - 👯 I’m looking to collaborate on open-source projects.
