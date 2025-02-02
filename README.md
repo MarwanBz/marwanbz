@@ -13,7 +13,7 @@
     
      
     
-  [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://marwanbaz.netlify.app//)
+  [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://marwanbaz.dev//)
   [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marwanbz/)
   [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/marwanbz_)
     
@@ -26,7 +26,7 @@
   
   ### 👨‍💻_technologist:
 ---
-- 🔭 I’m currently working in IT support, freelancing as a web developer and doing some open-source contributions.👨‍💻
+- 🔭 I’m currently working as frontend , freelancing as a web developer and doing some open-source contributions.👨‍💻
 - 🙂 currently learning Reactjs|NextJs ecossystem.🔎
 - :seedling: Exploring the web and its mysterious world.
 - 💬 Ask me about how 💻 computers work 👷
